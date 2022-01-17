@@ -1,4 +1,5 @@
 --https://www.mssqltips.com/sqlservertip/2580/querying-active-directory-data-from-sql-server/
+--**
 go
 USE [master]
 GO 
