@@ -1,4 +1,5 @@
 --(1) create the job to send the email (no scheduling as it will fire based on alert)
+--******
 USE [msdb]
 GO
 
